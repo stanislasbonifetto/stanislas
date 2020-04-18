@@ -24,10 +24,10 @@ linkedin_username: stanislasbonifetto
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-I am a Java Cloud Software Engineer with 15+ years of experience in development and growing new products.
-My experience in software development goes beyond coding, I appreciate and understand full systems starting from UX passing through development and coming to architecture. My excellent object oriented design, analysis, and testing skills allow me to build applications from the ground up and become productive in a project quickly.
-Lean and agile principles are the pillars of my work flow model, both when I am working individually or leading a group.
-I am able to communicate effectively with technical and non­ technical people at all levels, and I am at ease working on my own or within a team.
+  I am a Java Cloud Software Engineer with 15+ years of experience in development and growing new products.
+  My experience in software development goes beyond coding, I appreciate and understand full systems starting from UX passing through development and coming to architecture. My excellent object oriented design, analysis, and testing skills allow me to build applications from the ground up and become productive in a project quickly.
+  Lean and agile principles are the pillars of my work flow model, both when I am working individually or leading a group.
+  I am able to communicate effectively with technical and non­ technical people at all levels, and I am at ease working on my own or within a team.
 # Projects Section
 # projects_title: Projects
 
