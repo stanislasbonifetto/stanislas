@@ -24,14 +24,14 @@ linkedin_username: stanislasbonifetto
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a passionate *Lead Software Engineer and Agile/Lean* advocate with 20+ years of experience in startups and large companies. 
+  I am a passionate **Lead Software Engineer and Agile/Lean** advocate with 20+ years of experience in startups and large companies. 
   Using my strong agile background and excellent technical skills I lead, mentor, and coach teams to build the software of the future with the right technologies used in the right way. 
-  *I solve complex problems decomposing in simple architectures and code* easy to read, and designed with clean code, hexagonal architecture, and TDD. 
+  **I solve complex problems decomposing in simple architectures and code** easy to read, and designed with clean code, hexagonal architecture, and TDD. 
   I am eager to be part of teams and use my experience to help: 
   - building complex products from scratch
-  - *mentoring developers* on Lean and Agile methodologies and principles, pair programming, clean code, TDD, BDD, microservices, hexagonal and reactive architecture, domain-driven design, event-driven and distributed systems
-  - *keeping the codebase clean and production-ready*
-  - *observing the systems by the Golden Signals* - Latency, Traffic, Errors, and Saturation
+  - **mentoring developers** on Lean and Agile methodologies and principles, pair programming, clean code, TDD, BDD, microservices, hexagonal and reactive architecture, domain-driven design, event-driven and distributed systems
+  - **keeping the codebase clean and production-ready**
+  - **observing the systems by the Golden Signals** - Latency, Traffic, Errors, and Saturation
 # Projects Section
 # projects_title: Projects
 
